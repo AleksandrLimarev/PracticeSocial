@@ -2,8 +2,7 @@
 //  PracticeSocialTests.swift
 //  PracticeSocialTests
 //
-//  Created by Александр Лимарев on 23.10.2022.
-//
+
 
 import XCTest
 @testable import PracticeSocial
